@@ -1,0 +1,33 @@
+
+
+.logo-holder {
+	width: 500px;
+	margin: 0 auto;
+}
+
+.logo {
+	width: 500px;
+	margin: 0 auto;
+	margin-top: 30px;
+}
+
+.featurette {
+	padding: 20px 50px;
+}
+
+.text-red {
+	color: rgb(210,0,0);
+}
+
+.featurette-heading {
+	color: rgb(80,80,80);
+}
+
+.cover-container {
+  margin-top: 100px;
+}
+
+p.lead {
+	font-weight: 300;
+}
+
