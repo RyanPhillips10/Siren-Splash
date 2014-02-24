@@ -31,3 +31,12 @@ p.lead {
 	font-weight: 300;
 }
 
+.featurette-image {
+	border-radius:10px;
+	max-height:400px;
+}
+
+.last-featurette-image {
+	margin-top: 50px;
+}
+

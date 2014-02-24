@@ -96,3 +96,7 @@ a.btn-danger:hover {
 .text {
   text-shadow: 0px 0px #ff0000;
 }
+
+.copyright-txt {
+  color:rgb(255,255,255);
+}
